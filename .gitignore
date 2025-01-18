@@ -1,0 +1,44 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.env/
+
+# Editor-specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.pcap
+
+# Dependency files
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Test outputs
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# Ignore secrets
+.env
+secrets.json
