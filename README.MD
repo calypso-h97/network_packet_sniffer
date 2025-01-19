@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a network packet sniffer built using Python. It allows you to:
-
+Note: learning purposes only
 1. Capture network packets in real-time.
 2. Analyze HTTP, DNS, and sensitive unencrypted data.
 3. Save captured packets to `.pcap` files for further analysis.
